@@ -1,2 +1,3 @@
 # w3resource-SQL-Exercises
-Exercises to help improve your SQL skills
+
+[SQL Exercises](https://www.w3resource.com/sql-exercises/)
